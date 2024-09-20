@@ -14,23 +14,23 @@ Repositorio para armazenar resumos sobre Git e GitHub do curso Versionamento de 
 | Aulas | Resumos | 
 |-------|---------|
 | [Instalação Do Git e do GitHub](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/c8d73362-9038-4259-af4c-30dcc5551afe?back=/track/microsoft-azure-essentials&tab=forum&moduleId=undefined)| Nessa aula aprendi a instalar a versão de Git para Windows.|
-| 
+| |-------|---------|
 | [Configurando o Git](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f9b294d2-f8ca-4364-9031-1e897721b3e2?back=/track/microsoft-azure-essentials&tab=forum&moduleId=undefined)| Nessa aula aprendi como fazer as configuraçoes padrões no Git inserindo comandos no terminal -- Git Bash. |
-||
+||-------|---------|
 | [Autentificação via Token](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/3d13d85f-2508-4396-9657-4643d3302c79?back=/track/microsoft-azure-essentials&tab=forum&moduleId=undefined) | Nessa aula aprendi como gerar, autentificar e utilizar os Tokens da maneira correta, salvando-os na maquina por meio do Git Bash.|
-|
+||-------|---------|
 | [Autentificação via chave SSH](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a53b7d6e-d7a2-40de-a8f9-cc30b42fc93d?back=/track/microsoft-azure-essentials&tab=forum&moduleId=undefined) | Nessa aula aprendi como verificar a existencia de chaves já salvas, gerar um par de chaves SSH no GIT e salva-las no GitHub, para utiliza-las quando for necessario clonar um repositorio por exemplo.| 
-|
+||-------|---------|
 | [Criando e Clonando Repositórios](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a53b7d6e-d7a2-40de-a8f9-cc30b42fc93d?back=/track/microsoft-azure-essentials&tab=forum&moduleId=undefined) | Nessa aula revisei como clonar repositórios Remotos do GitHub para o Repositório Local e como transformar um diretório Local em um repositório Git.|
-|
+||-------|---------|
 | [Salvando Alterações no Repositorio Local](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/microsoft-azure-essentials&tab=forum&moduleId=undefined) | Nessa aula aprendi como salvar as alterações dentro da maquina por meio do Git Bash alterando o README de diversas maneiras.|
-|
+||-------|---------|
 | [Enviando e Baixando Alterações com o Repositorio Remoto](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/dd17c56e-2327-493c-942a-358a49a26549?back=/track/microsoft-azure-essentials&tab=forum&moduleId=undefined) | Nessa aula aprendi como funcionam as alterações pelo GitHub de uma maneira rapida e mais pratica. |
-|
+||-------|---------|
 | [Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/2c7fd2b1-e7c4-4947-9b07-ffcbfb4bd689?back=/track/microsoft-azure-essentials&tab=forum&moduleId=undefined) | Nessa aula conheci as branches , como elas funcionam e como altera-las por meio do Git Bash. |
-|
+||-------|---------|
 | [Trabalhando com Branches - Comandos Úteis no Dia a Dia](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/80018fab-daac-4917-8527-a6be2e0c3cf0?back=/track/microsoft-azure-essentials&tab=forum&moduleId=undefined) | Nessa aula aprendi alguns comandos interessantes com as branches para utilizar em trabalhos futuros. |
-|-------|---------|
+
 ##  👩‍💻Comandos Basicos Aprendidos
 ```
 git init
